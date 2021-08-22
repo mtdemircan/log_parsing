@@ -1,0 +1,10 @@
+{
+    "Merhaba Dünya!": "Hello World!",
+    "Yükleniyor...": "Loading...",
+    "Hostname değiştirildi.": "Hostname has been changed.",
+    "Hostname değiştirilirken bir hata oluştu!": "An error occurred while changing the hostname!",
+    "Hostname Değiştir": "Change Hostname",
+    "dsdb_audit modify log bilgileri": "dsdb_audit modify log information",
+    "dsdb_audit add log bilgileri": "dsdb_audit add log information",
+    "dsdb_audit delete log bilgileri": "dsdb_audit delete log information"
+}
